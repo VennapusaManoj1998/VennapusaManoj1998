@@ -3,7 +3,7 @@
 <h3> &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I completed my Master's degree in Data Science at Missouri State University (MSU).
-- 💼 &nbsp; Worked as a Software Engineer in In-Vehicle Infotainment Segment at Hyundai Mobis
+- 💼 &nbsp; Worked as a Software Engineer in Hyundai Mobis
 - 🌱 &nbsp; Passionate about Data Science, ML and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
