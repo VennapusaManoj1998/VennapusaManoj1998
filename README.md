@@ -2,8 +2,8 @@
 
 <h3> &nbsp;About Me </h3>
 
--  &nbsp; I completed my Master's degree in Data Science at Missouri State University (MSU).
--  &nbsp; Passionate about Data Science, ML and Artificial Intelligence.
+-  &nbsp; I completed my Master's degree at Missouri State University (MSU).
+-  &nbsp; Passionate about Data Science, Machine Learning and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
